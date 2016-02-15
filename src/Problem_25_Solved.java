@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0ab4e76ec6ef6631b5d3ade020dc7625625c95cd
 import java.math.BigInteger;
 
 public class Problem_25_Solved {

@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 import java.math.BigInteger;
+=======
+>>>>>>> 0ab4e76ec6ef6631b5d3ade020dc7625625c95cd
 public class Problem10_Solved {
 	public static void main(String[] args){
 
@@ -14,8 +17,13 @@ public class Problem10_Solved {
 			}
 		}
 		System.out.println(sum);
+<<<<<<< HEAD
 	  //  long finTime = System.currentTimeMillis()-starTime;
 		//System.out.println("Elapsed time: "+finTime+" milliseconds.");
+=======
+	    long finTime = System.currentTimeMillis()-starTime;
+		System.out.println("Elapsed time: "+finTime+" milliseconds.");
+>>>>>>> 0ab4e76ec6ef6631b5d3ade020dc7625625c95cd
 	}
 	
 	
