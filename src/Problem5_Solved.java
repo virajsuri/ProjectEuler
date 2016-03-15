@@ -4,7 +4,7 @@ public class Problem5_Solved {
 		long starTime = System.currentTimeMillis();
 		
 		int j = 2;
-		for (int i = 1; i < 1000000000; i++) {					
+		for (int i = 1; i < 100000000; i++) {					
 			if(
 			//Numbers that are divisible by a higher int
 			//  i % 2 <= 0 &&

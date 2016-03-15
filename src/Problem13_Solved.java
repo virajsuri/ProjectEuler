@@ -10,11 +10,7 @@ public class Problem13_Solved {
 		BigInteger sum = new BigInteger("0");
 		Scanner inputStream = null;
 		try{
-<<<<<<< HEAD
 			inputStream = new Scanner(new FileInputStream("ints.txt"));
-=======
-			inputStream = new Scanner(new FileInputStream("ints_problem13.txt"));
->>>>>>> 0ab4e76ec6ef6631b5d3ade020dc7625625c95cd
 		}
 		catch (FileNotFoundException e){
 			System.out.println("File not found");
@@ -27,9 +23,5 @@ public class Problem13_Solved {
 		}
 		System.out.println();
 		System.out.println("SUM: "+sum);
-<<<<<<< HEAD
-=======
-		System.out.println("First 10 digits: "+sum.toString().substring(0, 10));
->>>>>>> 0ab4e76ec6ef6631b5d3ade020dc7625625c95cd
 	}
 }
