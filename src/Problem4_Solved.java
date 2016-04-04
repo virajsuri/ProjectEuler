@@ -1,6 +1,5 @@
 public class Problem4_Solved{
-
-	public static void main(String[] args){
+	public static void main(String [] args) {
 		int max = 999 * 999;
 		String revback = "";
 		int i = 0;
