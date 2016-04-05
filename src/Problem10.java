@@ -1,4 +1,3 @@
-import java.math.BigInteger;
 public class Problem10 {
 	public static void main(String[] args){
 
@@ -14,8 +13,8 @@ public class Problem10 {
 			}
 		}
 		System.out.println(sum);
-	  //  long finTime = System.currentTimeMillis()-starTime;
-		//System.out.println("Elapsed time: "+finTime+" milliseconds.");
+	    long finTime = System.currentTimeMillis()-starTime;
+		System.out.println("Elapsed time: "+finTime+" milliseconds.");
 	}
 	
 	
