@@ -1,5 +1,5 @@
 
-public class Problem6_Solved {
+public class Problem6 {
 	public static void main(String [] args){
 		int base = 1;
 		int sum = 0;

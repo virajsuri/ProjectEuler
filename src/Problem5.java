@@ -1,4 +1,4 @@
-public class Problem5_Solved {
+public class Problem5 {
 	public static void main(String[] args) {
 
 		long starTime = System.currentTimeMillis();

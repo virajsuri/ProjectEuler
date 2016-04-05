@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 
 
-public class Problem_16_Solved {
+public class Problem16 {
 	public static void main(String [] args){
 		int charValue = 0,sum=0;
 		BigInteger twoPow1k = new BigInteger("2");

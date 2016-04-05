@@ -1,5 +1,5 @@
 import java.math.BigInteger;
-public class Problem10_Solved {
+public class Problem10 {
 	public static void main(String[] args){
 
 		long starTime = System.currentTimeMillis();

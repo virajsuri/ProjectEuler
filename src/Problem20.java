@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class Problem_20_Solved {
+public class Problem20 {
 	public static void main(String [] args){
 		int charValue = 0,sum=0;
 		

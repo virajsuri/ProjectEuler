@@ -1,4 +1,4 @@
-public class Problem7_Solved {
+public class Problem7 {
 	public static void main(String[] args) {
 
 		int iteration = 0;

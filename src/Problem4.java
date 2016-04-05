@@ -1,4 +1,4 @@
-public class Problem4_Solved{
+public class Problem4{
 	public static void main(String [] args) {
 		int max = 999 * 999;
 		String revback = "";

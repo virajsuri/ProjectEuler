@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 
-public class Problem2_Solved {
+public class Problem2 {
 	public static void main(String[] args) throws InterruptedException {
 
 		BigInteger g = new BigInteger("0");

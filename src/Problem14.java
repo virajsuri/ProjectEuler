@@ -1,5 +1,5 @@
 
-public class Problem_14_Solved {
+public class Problem14 {
 	public static void main(String[] args) {
 		
 		long starTime = System.currentTimeMillis();
