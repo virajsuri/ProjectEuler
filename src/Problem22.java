@@ -3,6 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Problem22 {
+	//Problem 22
 	public static void main(String [] args) {
 		Problem22 obj = new Problem22();
 		long totalSum=0;
