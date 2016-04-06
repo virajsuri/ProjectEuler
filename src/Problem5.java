@@ -1,8 +1,9 @@
-public class Problem5 {
+public class Problem5{
 	public static void main(String[] args) {
 
 		long starTime = System.currentTimeMillis();
-		for (int i = 1; i < 100000000; i++) {					
+
+		for (int i = 2; i < 1000000000; i=i+2) {					
 			if(
 			//Numbers that are divisible by a higher int
 			//  i % 2 <= 0 &&

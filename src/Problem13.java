@@ -10,7 +10,7 @@ public class Problem13 {
 		BigInteger sum = new BigInteger("0");
 		Scanner inputStream = null;
 		try{
-			inputStream = new Scanner(new FileInputStream("ints.txt"));
+			inputStream = new Scanner(new FileInputStream("p013_ints.txt"));
 		}
 		catch (FileNotFoundException e){
 			System.out.println("File not found");
@@ -18,10 +18,9 @@ public class Problem13 {
 		}
 		for(int i=1;i<=100;i++){
 			BigInteger line1 = new BigInteger(inputStream.nextLine());
-			//System.out.println(line1);
 			sum = sum.add(line1);
 		}
-		System.out.println();
+		
 		System.out.println("SUM: "+sum);
 	}
 }
