@@ -7,6 +7,8 @@ public class Problem15 {
 		for (int i = 0; i < n; i++) {
 		    paths *= (2 * n) - i;
 		    paths /= i + 1;
+		    System.out.println(paths);
+		    
 		}
 		System.out.println(paths);
 	}
